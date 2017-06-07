@@ -1,0 +1,7 @@
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\bin\Debug\CopyBlocks.dll
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\bin\Debug\CopyBlocks.pdb
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\obj\Debug\CopyBlocks.MyCommands.resources
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\obj\Debug\CopyBlocks.SelectBlock.resources
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\obj\Debug\CopyBlocks.csproj.GenerateResource.Cache
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\obj\Debug\CopyBlocks.dll
+D:\Program Files\Autodesk\iSource 2017\CopyBlocks\CopyBlocks\obj\Debug\CopyBlocks.pdb
